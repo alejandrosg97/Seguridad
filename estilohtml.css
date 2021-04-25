@@ -1,0 +1,33 @@
+body{
+    background-image: url(../Pagina/sis1.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+div{
+    background-color: transparent;
+    border: 1px solid blanchedalmond;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+    box-shadow: 0 0 30px rgb(0,0,0);
+}
+#principal {
+    border: solid 1px #d69898;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+   }
+fieldset{
+    margin-bottom: 10px;
+}
+legend{
+    border: solid 1px #3683d4;
+    padding: 5px;
+    font-weight: bold;
+    background: #7689c5;
+    border-radius: 15px;
+}
+
